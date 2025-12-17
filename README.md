@@ -165,6 +165,12 @@ Response:
 (Version details in `requirements.txt`.)
 
 ---
+⚠️ Demo Notes & Limitations
+
+Optimized for 30–60 second videos with clear speech
+Silent or low-audio videos are handled via contextual fallback logic
+Free-tier AI models are used for hackathon compliance
+Backend is locally hosted for demo stability but is cloud-deployable
 
 # 👥 Contributors
 
